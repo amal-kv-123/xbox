@@ -1,0 +1,387 @@
+body{
+    margin: 0px;
+}
+
+.pic1{
+   width: 100%;
+   height: 20cm;
+   background-image: url("https://wallpapercave.com/wp/wp8830692.jpg");
+   background-color: rgb(10, 48, 9);
+   
+}
+.image{
+    height: 20cm;
+    width: 100%;
+}
+.selection{
+    
+    
+    width: 100%;
+    height: 4cm;
+    display: flex;
+    margin-top: 1cm;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    
+    
+}
+
+
+.icon1{
+    
+    height: 2cm;
+    width: 2cm;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+   
+    
+    
+}
+
+
+.icon2{
+
+    height: 2cm;
+    cursor: pointer;
+    margin-left: 2cm;
+    width: 2cm;
+  
+
+    
+
+}
+.icon3{
+   
+    height: 2cm;
+    width: 2cm;
+    margin-left: 2cm;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    
+}
+.icon4{
+   
+    height: 2cm;
+    width: 2cm;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2cm;
+}
+.icon5{
+    height: 2cm;
+    float: left;
+    cursor: pointer;
+    width: 2cm;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2cm;
+ 
+}
+.icon6{
+    height: 2cm;
+    width: 2cm;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    margin-left: 2cm;
+  
+}
+
+.text1{
+  
+    color: green;
+  margin-left: 10px;
+  
+}
+.text2{
+   
+    color: green;
+}
+.text3{
+    
+   
+  
+    color: green;
+
+}
+.text4{
+  
+    color: green;
+
+
+
+}
+.text5{
+  
+    color: green;
+    margin-left: 10px;
+  
+
+
+}
+.text6{
+   
+    color: green;
+    margin-left: 10px;
+    
+
+}
+
+
+
+.outer-div-left{
+
+    
+    float: left;
+    height: 40cm;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 5px;
+}
+.outer-div-right{
+    float: left;
+    height: 40cm;
+    width: 944px;
+    margin-left: 8px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 5px;
+}
+.img-div1{
+    width: 100%;
+    height: 30cm;
+    margin-bottom: 5px;
+    background-color: rgb(221, 38, 130);
+}
+.text-img2{
+    float: left;
+    width: 50%;
+    min-height: 15cm;
+    background-color: rgb(31, 146, 27);
+}
+
+
+.img-div2{
+    float: right;
+    width: 50%;
+    height: 15cm;
+    background-color: rgb(18, 137, 241);
+}
+
+.img-div3{
+
+    height: 930px;
+    margin-top: 578px;
+    width: 943px;
+    background-color: aqua;
+    
+      
+} 
+.img-div4{
+    
+    float: left;
+    height: 372px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+
+.text-img4{
+    height: 372px;
+    float: left;
+    
+    width: 50%;
+    background-color: rgb(22, 189, 22);
+}
+.h1class{
+    color: white;
+    margin-left: 15px;
+    margin-top: 6cm;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Verdana, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+    margin-left: 15px;
+}
+h2{
+    margin-left: 2cm;
+}
+
+.bottom-img{
+  float: left;
+  width: 100%;
+  height: 25cm;
+  margin-bottom: 6px;
+    }
+.down-right{
+    float: left;
+   width: 50%;
+   height: 39cm;
+   background: rgb(255, 255, 0);
+
+}
+.down-img{
+      float: left;
+      width: 50%;
+      height: 13cm;
+      color: blue;
+  }  
+  .down{
+      width: 100%;
+      height: 13cm;
+      background-color: rgb(243, 144, 14);
+  }
+.down-img2{
+    margin-left: 4px;
+    width: 25cm ;
+    float:left;
+    height: 26cm;
+    margin-bottom: 6px;
+
+}
+.text-down{
+    float: left;
+    width: 50%;
+    height:13cm;
+    background-color: blue;
+}
+
+
+.texth3{
+    color: white;
+    font-size: xx-large;
+    margin-top: 5cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    font-weight: bolder;
+}
+.last{
+    
+    width: 24cm;
+    height: 26cm;
+    background-color: rgb(20, 42, 240);
+}    
+.bottom-left{
+    float: left;
+    width: 50%;
+    height: 26cm;
+    background-color: rgb(255, 255, 255); 
+
+}
+.bottom-text-left{
+    float: left;
+    width: 50%;
+    height: 13cm;
+    background-color: rgb(26, 212, 9);
+
+}
+.bottom-left-img{
+    float: right;
+    width: 50%;
+    height: 13cm;
+    background-color: rgb(2, 5, 0);
+}
+.bottom-img2{
+    background-image: url("https://assets.xboxservices.com/assets/9e/62/9e628834-2fab-4fb6-87c8-4088130a5afa.jpg?n=MLB-The-Show-22_Large-tout-0_1083x1222_02.jpg");
+    margin-top: 6px;
+    padding-bottom: 8px;
+    float: left;
+    width: 100%;
+    height: 978px;
+    background-color: rgb(255, 255, 255);
+}
+.down-img3{
+    
+  float: right;
+  width: 50%;
+  height: 13cm;
+  background-color: rgb(0, 110, 255);
+}
+.down-text-img3{
+    float: left;
+width: 50%;
+height: 13cm;
+background-color: rgb(255, 255, 255);   
+}
+.down-img4{
+    float: right;
+    width: 50%;
+    height: 13cm;
+    background-color: aqua;
+}
+.assassian-text{
+    margin-left: 10px;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 3cm;
+}
+.footer{
+    float: left;
+    margin-top: 7px;
+    width: 100%;
+    height: 8cm;
+    background-color: rgb(216, 217, 219);
+
+}
+.footerh3{
+    margin-top: 1cm;
+    float: left;
+    margin-left: 3cm;
+    font-size:small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+.button{
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 2cm;
+    border-radius: 9px;
+    height: 1cm;
+    width: 6cm;
+    color: rgb(41, 63, 82);
+    cursor: pointer;
+    background-color: rgb(0, 255, 0);
+}
+.text{
+    float: left;
+    padding-left: 2cm;
+    font-size: small;
+}
+ul{
+    margin-top: 1cm;
+}
+
+li{
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: smaller;
+    font-weight: 100;
+    margin-left: 2cm;
+    list-style: none;
+    
+
+}
+.about{
+    width: 28cm;
+    height: 1cm;
+    margin-left: 26cm;
+    float: left;
+    
+}
+.about-text{
+    padding-left: 44px;
+    font-size: small;
+    float: left;
+
+}
+.left-icon{
+    width: 5cm;
+    margin-top: 6cm;
+    height: 12px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 4cm;
+    align-items: center;
+    
+}
